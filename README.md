@@ -7,7 +7,8 @@
 ## ✨ Tecnologias
 
 - ReactJS
-- Typescript 
+- Typescript
+- Vite
 
 ## 💻 Projeto
 Aplicação feita em React utilizando o Vite com os conceitos mais importantes, entre eles estão componentização, propriedades, estados, imutabilidade e hooks, além de aplicar o TypeScript com tipagem estática.
