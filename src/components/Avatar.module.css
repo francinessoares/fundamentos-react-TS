@@ -1,0 +1,19 @@
+.avatar {
+    box-sizing: initial;
+    width: calc(3rem + 12px);
+    height: calc(3rem + 12px);
+    color: var(--green-500);
+    border-radius: 8px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .avatarWithBorder {
+    width: calc(3rem + 12px);
+    height: calc(3rem + 12px);
+    border-radius: 8px;
+    border: 4px solid var(--gray-800);
+    outline: 2px solid var(--green-500);
+  }
