@@ -23,3 +23,4 @@ Aplicação feita em React utilizando o Vite com os conceitos mais importantes, 
 - Acessar a raiz do projeto
 - Executar o comando "npm install"
 - Executar o comando "npm run dev"
+  
