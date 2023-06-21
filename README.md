@@ -10,7 +10,7 @@
 - Typescript 
 
 ## 💻 Projeto
-Timeline desenvolvida em reactJS no curso da rocketseat trilha Ignite!
+Aplicação feita em React utilizando o Vite com os conceitos mais importantes, entre eles estão componentização, propriedades, estados, imutabilidade e hooks, além de aplicar o TypeScript com tipagem estática.
 
 ![image](https://github.com/francinessoares/fundamentos-react-TS/assets/20801604/9c2eeaf0-c6d1-4d9b-b71c-f70bc06897dc)
 
